@@ -15,13 +15,3 @@ AniTune is a fun, Wordle-inspired web application that challenges you to identif
 🌸 Spoiler-Free Sharing: Share your results without revealing the answer.
 
 📱 Responsive Design: Works beautifully on desktop and mobile.
-
-🛠️ Tech Stack
-
-Frontend: React / Next.js (or your choice)
-
-Backend: Node.js / Express
-
-Database: MongoDB / Firebase
-
-APIs: Anime music database / YouTube API for song snippets
