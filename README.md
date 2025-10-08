@@ -1,4 +1,3 @@
-📖 Full GitHub Description / README Intro
 AniTune 🎶
 
 Guess the Anime Opening of the Day!
